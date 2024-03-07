@@ -1,0 +1,38 @@
+{
+  "dress": [
+    {
+      "id": "1000",
+      "new": 1,
+      "title": "Valdona Women's Red Dress",
+      "price": 2600,
+      "images": "https://img.freepik.com/free-photo/portrait-fashionable-girl-red-evening-dress-posed-background-mirror-window-modern-building_627829-11939.jpg?w=360"
+    },
+    {
+      "id": "1001",
+      "new": 0,
+      "title": "Valdona Women's Maroon Dress",
+      "price": 5999,
+      "images": "https://img.freepik.com/free-photo/woman-wearing-high-heels-stocking_23-2150261096.jpg?w=360&t=st=1709619864~exp=1709620464~hmac=0c5e90ee1928e3e7518be49f45c7d2815f549a6e1973b9c11de6a509a2d3395d"
+    },
+    {
+      "id": "1001",
+      "new": 1,
+      "title": "Valdona Women's Red Dress",
+      "price": 5000,
+      "images": "https://img.freepik.com/free-photo/beautiful-young-woman-wearing-fashionable-clothes-walking-down-street_839833-3813.jpg?w=360"
+    },
+    {
+      "id": "f414",
+      "title": "Valdona Black Dress For Women's",
+      "price": "400",
+      "images": "https://img.freepik.com/free-photo/woman-green-dress-hat-yellow-background_1303-10383.jpg?w=360&t=st=1709627749~exp=1709628349~hmac=f1a3bcae021bc83d5f30c744fb7bc0016f9e6799e8c165eff7a85586482bdf15",
+      "image": "https://img.freepik.com/free-photo/woman-green-dress-hat-yellow-background_1303-10383.jpg?w=360&t=st=1709627749~exp=1709628349~hmac=f1a3bcae021bc83d5f30c744fb7bc0016f9e6799e8c165eff7a85586482bdf15"
+    },
+    {
+      "id": "1d17",
+      "title": "Valdona Women's White Dress",
+      "price": "486",
+      "images": "https://img.freepik.com/free-photo/summer-portrait-cheerful-red-haired-lady-fashionable-outfit-having-fun-pink_273443-4440.jpg?w=360&t=st=1709785400~exp=1709786000~hmac=de83dc0c2d5c6494cc8a93bdb74c76d38a9cc986e7349185b686b30d2e250ff9"
+    }
+  ]
+}
